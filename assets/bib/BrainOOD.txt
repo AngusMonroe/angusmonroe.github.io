@@ -1,0 +1,8 @@
+@inproceedings{
+xu2025brainood,
+title={Brain{OOD}: Out-of-distribution Generalizable Brain Network Analysis},
+author={Jiaxing Xu and Yongqiang Chen and Xia Dong and Mengcheng Lan and Tiancheng HUANG and Qingtian Bian and James Cheng and Yiping Ke},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=3xqqYOKILp}
+}

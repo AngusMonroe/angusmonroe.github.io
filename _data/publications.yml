@@ -1,0 +1,57 @@
+main:
+
+  - title: "BrainOOD: Out-of-distribution Generalizable Brain Network Analysis"
+    authors: <strong>Jiaxing Xu</strong>*, Yongqiang Chen*, Xia Dong, Mengcheng Lan, Tiancheng Huang, Qingtian Bian, James Cheng, Yiping Ke.
+    conference_short: ICLR
+    conference: In Proceedings of the 13th International Conference on Learning Representations (ICLR'25).
+    pdf: https://openreview.net/pdf?id=3xqqYOKILp
+    code: https://github.com/AngusMonroe/BrainOOD
+    bibtex: ./assets/bib/BrainOOD.txt
+    image: ./assets/img/BrainOOD.png
+    notes: AI4X Conference Oral Presentation
+
+  - title: "Contrasformer: A Brain Network Contrastive Transformer for Neurodegenerative Condition Identification"
+    authors: <strong>Jiaxing Xu</strong>, Kai He, Mengcheng Lan, Qingtian Bian, Wei Li, Tieying Li, Yiping Ke, Miao Qiao
+    conference_short: CIKM
+    conference: In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM'24).
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3627673.3679560
+    code: https://github.com/AngusMonroe/Contrasformer
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wXXzE-K_FH4J:scholar.google.com/&output=citation&scisdr=ClErLEBCELaN9FHCDfU:AFWwaeYAAAAAZ_jEFfVzxpWGoyQSBLK2qFzyrPA&scisig=AFWwaeYAAAAAZ_jEFQfZ0czTeJMRffWssR6p9yA&scisf=4&ct=citation&cd=-1
+    image: ./assets/img/Contrasformer.png
+
+  - title: "Contrastive Graph Pooling for Explainable Classification of Brain Networks"
+    authors: <strong>Jiaxing Xu</strong>, Qingtian Bian, Xinhang Li, Aihu Zhang, Yiping Ke, Miao Qiao, Wei Zhang, Wei Khang Jeremy Sim, and Balázs Gulyás.
+    conference_short: IEEE TMI
+    conference: In IEEE Transactions on Medical Imaging, 2024.
+    pdf: https://dr.ntu.edu.sg/bitstream/10356/180545/2/FINAL%20VERSION.pdf
+    code: https://github.com/AngusMonroe/ContrastPool
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CeJX9S9tArQJ:scholar.google.com/&output=citation&scisdr=ClErLEBCELaN9FHBgJk:AFWwaeYAAAAAZ_jHmJmDROH88i--pWgv0d2eXy8&scisig=AFWwaeYAAAAAZ_jHmOSy2JpAAL9brt124DgCBPI&scisf=4&ct=citation&cd=-1
+    image: ./assets/img/ContrastPool.png
+    notes: PREMIA Best Student Paper Honourable Mention Award
+
+  - title: "Union Subgraph Neural Networks"
+    authors: <strong>Jiaxing Xu</strong>*, Aihu Zhang*, Qingtian Bian, Vijay Prakash Dwivedi and Yiping Ke.
+    conference_short: AAAI
+    conference: In Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI'24).
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29551/30921
+    code: https://github.com/AngusMonroe/UnionSNN
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:e1D7sAaLSvoJ:scholar.google.com/&output=citation&scisdr=ClErLEBCELaN9FHDxOk:AFWwaeYAAAAAZ_jF3OkzQ2D4Rf7k5xZpu5vdnpw&scisig=AFWwaeYAAAAAZ_jF3NoVGC2qLo8XNyy5OtbKUMY&scisf=4&ct=citation&cd=-1
+    image: ./assets/img/UnionSNN.png
+
+  - title: "A Class-Aware Representation Refinement Framework for Graph Classification"
+    authors: <strong>Jiaxing Xu</strong>, Jinjie Ni, Yiping Ke.
+    conference_short: INS
+    conference: In Information Sciences, 2024.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0020025524009757?casa_token=778YUzzPu9kAAAAA:vPNLRsxE9x9MpNHpdivb_TveaTyUsB8PLTk4mzr04om7qWY_wGOQC8uKULIWg26VzWtb6gueB-4
+    # code: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:UbT6Z3w4cgYJ:scholar.google.com/&output=citation&scisdr=ClErLEBCELaN9FHOYDI:AFWwaeYAAAAAZ_jIeDJ4vOeRxoAgzNnlCFSaNUM&scisig=AFWwaeYAAAAAZ_jIeO395Z4Y-2s_PQ577lrs0os&scisf=4&ct=citation&cd=-1
+    image: ./assets/img/CARE.png
+
+  - title: "Data-Driven Network Neuroscience: On Data Collection and Benchmark"
+    authors: <strong>Jiaxing Xu</strong>*, Yunhan Yang*, David Tse Jung Huang*, Sophi Shilpa Gururajapathy*, Yiping Ke, Miao Qiao, Alan Wang, Haribalan Kumar, Josh McGeown, and Eryn Kwon.
+    conference_short: NeurIPS
+    conference: In Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS'23), Datasets and Benchmarks Track.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2023/file/44e3a3115ca26e5127851acd0cedd0d9-Paper-Datasets_and_Benchmarks.pdf
+    code: https://github.com/brainnetuoa/data_driven_network_neuroscience
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:qz7lN9b0LhwJ:scholar.google.com/&output=citation&scisdr=ClErLEBCEIeM9FHPdvc:AFWwaeYAAAAAZ_jJbvfF58SCpredv_olrjebiwY&scisig=AFWwaeYAAAAAZ_jJbls9gQT5o37gvJsup2XVvOE&scisf=4&ct=citation&cd=-1
+    image: ./assets/img/dataset.png

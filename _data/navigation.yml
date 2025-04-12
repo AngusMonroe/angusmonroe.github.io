@@ -1,0 +1,14 @@
+main:
+
+  - title: "Experience"
+    url: ./#experience
+    right: true
+
+  - title: "Services"
+    url: ./#services
+
+  - title: "Publications"
+    url: ./#publications
+
+  - title: "Jiaxing"
+    url: ./#about-me
