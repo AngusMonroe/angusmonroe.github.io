@@ -43,7 +43,7 @@ Education
     </div>
 </div>
 <div class="image-text-container">
-    <img src="./assets/img/beihang.jpg" alt="Image">
+    <img src="./assets/img/Beihang.jpg" alt="Image">
     <div class="text">
         <h2>Beihang University (BUAA)</h2>
         <h3><span style="color: #333333;">
