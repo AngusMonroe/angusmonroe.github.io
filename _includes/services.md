@@ -13,6 +13,7 @@
   <li><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS), 2025</autocolor></li>
     <li><autocolor>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025</autocolor></li>
      <li><autocolor>International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD), 2024</autocolor></li>
+ <li><autocolor>European Conference on Artificial Intelligence (ECAI), 2025</autocolor></li>
           <li><autocolor>Learning on Graphs Conference (LOG), 2024</autocolor></li>
 </ul>
 
