@@ -1,0 +1,7 @@
+@inproceedings{xu2024contrasformer,
+  title={Contrasformer: a brain network contrastive transformer for neurodegenerative condition identification},
+  author={Xu, Jiaxing and He, Kai and Lan, Mengcheng and Bian, Qingtian and Li, Wei and Li, Tieying and Ke, Yiping and Qiao, Miao},
+  booktitle={Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+  pages={2671--2681},
+  year={2024}
+}

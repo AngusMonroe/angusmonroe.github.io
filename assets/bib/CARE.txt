@@ -1,0 +1,9 @@
+@article{xu2024class,
+  title={A class-aware representation refinement framework for graph classification},
+  author={Xu, Jiaxing and Ni, Jinjie and Ke, Yiping},
+  journal={Information Sciences},
+  volume={679},
+  pages={121061},
+  year={2024},
+  publisher={Elsevier}
+}

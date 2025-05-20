@@ -1,0 +1,9 @@
+@inproceedings{xu2024union,
+  title={Union subgraph neural networks},
+  author={Xu, Jiaxing and Zhang, Aihu and Bian, Qingtian and Dwivedi, Vijay Prakash and Ke, Yiping},
+  booktitle={Proceedings of the AAAI conference on artificial intelligence},
+  volume={38},
+  number={14},
+  pages={16173--16183},
+  year={2024}
+}

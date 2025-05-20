@@ -1,0 +1,6 @@
+@article{xu2025brainprompt,
+  title={BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification},
+  author={Xu, Jiaxing and He, Kai and Tang, Yue and Li, Wei and Lan, Mengcheng and Dong, Xia and Ke, Yiping and Feng, Mengling},
+  journal={International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI).},
+  year={2025}
+}

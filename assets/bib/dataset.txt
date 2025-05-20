@@ -1,0 +1,8 @@
+@article{xu2023data,
+  title={Data-driven network neuroscience: On data collection and benchmark},
+  author={Xu, Jiaxing and Yang, Yunhan and Huang, David and Gururajapathy, Sophi Shilpa and Ke, Yiping and Qiao, Miao and Wang, Alan and Kumar, Haribalan and McGeown, Josh and Kwon, Eryn},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  pages={21841--21856},
+  year={2023}
+}
