@@ -10,6 +10,7 @@
         <li><autocolor>AAAI Conference on Artificial Intelligence (AAAI), 2024, 2025</autocolor></li>
           <li><autocolor>International Joint Conference on Artificial Intelligence (IJCAI), 2025</autocolor></li>
             <li><autocolor>The Web Conference (WWW), 2025</autocolor></li>
+            <li><autocolor>ACM International Conference on Multimedia (MM), 2025</autocolor></li>
   <li><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS), 2025</autocolor></li>
     <li><autocolor>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025</autocolor></li>
      <li><autocolor>International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD), 2024</autocolor></li>
@@ -20,6 +21,7 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
+	<li><autocolor>Artificial Intelligence, 2025</autocolor></li>
   <li><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024</autocolor></li>
   <li><autocolor>Pattern Recognition, 2024</autocolor></li>
   <li><autocolor>Neural Networks, 2023 - 2025</autocolor></li>
