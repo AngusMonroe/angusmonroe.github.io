@@ -38,7 +38,7 @@ Education
         Ph.D. in Computer Science, <strong> [Oct 2021 - Feb 2025] </strong>
         </p>
         <p>
-        Supervised by Prof. [Yiping Ke](https://keyiping.wixsite.com/index).
+        Supervised by Prof. <a href="https://keyiping.wixsite.com/index">Yiping Ke</a>.
         </p>
         <p>
         Thesis: Brain Network Analysis by Graph Representation Learning
@@ -56,7 +56,7 @@ Education
         BS in Software Engineering, <strong> [Sep 2016 - Jun 2020] </strong>
         </p>
         <p>
-        Supervised by Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/)(Tsinghua University).
+        Supervised by Prof. <a href="http://keg.cs.tsinghua.edu.cn/jietang/">Jie Tang</a>(Tsinghua University).
         </p>
     </div>
 </div>
