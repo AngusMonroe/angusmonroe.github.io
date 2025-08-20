@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a research fellow at [Saw Swee Hock School of Public Health](https://sph.nus.edu.sg/) at [National University of Singapore](https://nus.edu.sg/), with Prof. [Mengling Feng](https://www.mornin-feng.com/). Previously, I defended my Ph.D. in [College of Computing and Data Science](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/) in 2024. 
+I am a research fellow at [Saw Swee Hock School of Public Health](https://sph.nus.edu.sg/) at [National University of Singapore](https://nus.edu.sg/), with Prof. [Mengling Feng](https://www.mornin-feng.com/). Previously, I defended my Ph.D. in [College of Computing and Data Science](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/) in 2025. 
 Prior to NTU, I received a B.S. in Software Engineering from [Beihang University](https://www.buaa.edu.cn) in 2020. 
 
 ## Research Interests
