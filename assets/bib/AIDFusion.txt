@@ -1,0 +1,7 @@
+@article{xu2025multi,
+  title={Multi-Atlas Brain Network Classification through Consistency Distillation and Complementary Information Fusion},
+  author={Xu, Jiaxing and Lan, Mengcheng and Dong, Xia and He, Kai and Zhang, Wei and Bian, Qingtian and Ke, Yiping},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2025},
+  publisher={IEEE}
+}

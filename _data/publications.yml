@@ -1,10 +1,19 @@
 main:
 
+  - title: "Multi-Atlas Brain Network Classification through Consistency Distillation and Complementary Information Fusion"
+    authors: <strong>Jiaxing Xu</strong>, Mengcheng Lan, Xia Dong, Kai He, Wei Zhang, Qingtian Bian, Yiping Ke.
+    conference_short: JBHI
+    conference: In IEEE Journal of Biomedical and Health Informatics, 2025.
+    pdf: https://arxiv.org/pdf/2410.08228
+    # code:  https://github.com/AngusMonroe/AIDFusion
+    bibtex: ./assets/bib/AIDFusion.txt
+    image: ./assets/img/AIDFusion.png
+
   - title: "BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification"
     authors: <strong>Jiaxing Xu</strong>*, Kai He*, Yue Tang, Wei Li, Mengcheng Lan, Xia Dong, Yiping Ke, Mengling Feng.
     conference_short: MICCAI
     conference: In Proceedings of the 28th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI'25).
-    pdf: https://arxiv.org/pdf/2504.16096
+    pdf: https://papers.miccai.org/miccai-2025/paper/2260_paper.pdf
     code:  https://github.com/AngusMonroe/BrainPrompt
     bibtex: ./assets/bib/BrainPrompt.txt
     image: ./assets/img/BrainPrompt.png
