@@ -1,7 +1,10 @@
-@article{xu2025multi,
-  title={Multi-Atlas Brain Network Classification through Consistency Distillation and Complementary Information Fusion},
+@ARTICLE{11165071,
   author={Xu, Jiaxing and Lan, Mengcheng and Dong, Xia and He, Kai and Zhang, Wei and Bian, Qingtian and Ke, Yiping},
-  journal={IEEE Journal of Biomedical and Health Informatics},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={Multi-Atlas Brain Network Classification through Consistency Distillation and Complementary Information Fusion}, 
   year={2025},
-  publisher={IEEE}
-}
+  volume={},
+  number={},
+  pages={1-12},
+  keywords={Transformers;Functional magnetic resonance imaging;Brain modeling;Network analyzers;Training;Representation learning;Data mining;Information filters;Feature extraction;Bioinformatics;Brain Network;Multi-atlas Consistency;fMRI Biomarker;Brain Disorders;Graph Neural Network},
+  doi={10.1109/JBHI.2025.3610111}}

@@ -23,8 +23,9 @@
 <ul style="margin:0 0 20px;">
 	<li><autocolor>Artificial Intelligence, 2025</autocolor></li>
   <li><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024</autocolor></li>
-  <li><autocolor>Pattern Recognition, 2024</autocolor></li>
+  <li><autocolor>Pattern Recognition, 2024， 2025</autocolor></li>
   <li><autocolor>Neural Networks, 2023 - 2025</autocolor></li>
   <li><autocolor>Engineering Applications of Artificial Intelligence (EAAI), 2022, 2024, 2025</autocolor></li>
+  <li><autocolor>Journal of Big Data, 2025</autocolor></li>
   <li><autocolor>Memetic Computing (MEME), 2021</autocolor></li>
 </ul>
