@@ -16,7 +16,8 @@ My PhD thesis made some early attempts on these problems. I do believe these fie
 
 ## News
 
-- **[Sep. 2025]** One paper is accept by JBHI!
+- **[Sep. 2025]** Our paper about multi-atlas brain network analysis is accept by IEEE JBHI!
+- **[Jun. 2025]** One paper is accept by IEEE Transactions on Fuzzy Systems!
 - **[May. 2025]** One paper is accept by KDD 2025!
 - **[May. 2025]** Two papers are early accepted by MICCAI 2025!
 - **[Apr. 2025]** Our paper about the OOD problem of brain networks is selected for oral presentation at AI4X 2025!
