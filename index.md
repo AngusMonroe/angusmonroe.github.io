@@ -16,11 +16,10 @@ My PhD thesis made some early attempts on these problems. I do believe these fie
 
 ## News
 
+- **[Sep. 2025]** One paper is accept by JBHI!
 - **[May. 2025]** One paper is accept by KDD 2025!
 - **[May. 2025]** Two papers are early accepted by MICCAI 2025!
 - **[Apr. 2025]** Our paper about the OOD problem of brain networks is selected for oral presentation at AI4X 2025!
-- **[Feb. 2025]** I finally complete my oral defence of my Ph.D.!
-- **[Jan. 2025]** Our paper about the OOD problem of brain networks is accepted by ICLR 2025!
 
 {% include_relative _includes/education.md %}
 
@@ -44,4 +43,4 @@ My PhD thesis made some early attempts on these problems. I do believe these fie
 
 ## Miscellaneous
 
-Aside from my curiosity about computer science and my study preoccupation, I am also a big fan of music and go game. I would like to listen to the concert, play guitar or watch go game competition in my free time. If this involves sports, I favor swimming since it enhances my self-control and it is a benefit in my health insurance and spirit.
+Aside from my curiosity about computer science and my study preoccupation, I am also a big fan of music and Weiqi. I would like to listen to the concert or watch Weiqi competition in my free time. If this involves sports, I favor swimming since it enhances my self-control and it is a benefit in my health insurance and spirit.
