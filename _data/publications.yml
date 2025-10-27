@@ -4,7 +4,7 @@ main:
     authors: <strong>Jiaxing Xu</strong>, Mengcheng Lan, Xia Dong, Kai He, Wei Zhang, Qingtian Bian, Yiping Ke.
     conference_short: JBHI
     conference: In IEEE Journal of Biomedical and Health Informatics, 2025.
-    pdf: https://ieeexplore.ieee.org/abstract/document/11165071/
+    pdf: https://arxiv.org/pdf/2410.08228
     code:  https://github.com/AngusMonroe/AIDFusion
     bibtex: ./assets/bib/AIDFusion.txt
     image: ./assets/img/AIDFusion.png
