@@ -4,7 +4,7 @@
 
 - **School of Computer Science and Engineering, Nanyang Technological University** 
 
-	Teaching Assistant of *Undergraduate Final Year Project*, Oct 2021 - Present
+	Teaching Assistant of *Undergraduate Final Year Project*, Oct 2021 - Jul 2025
 	
 - **School of Software, Beihang University**
 
