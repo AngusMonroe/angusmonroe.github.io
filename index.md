@@ -16,11 +16,8 @@ My PhD thesis made some early attempts on these problems. I do believe these fie
 
 ## News
 
+- **[May. 2026]** Our paper about knowledge-driven brain network analysis is accept by IEEE Transactions on Medical Imaging 2026!
 - **[Oct. 2025]** Our paper about heterophilic graph is accept by WSDM 2026!
-- **[Sep. 2025]** Our paper about multi-atlas brain network analysis is accept by IEEE JBHI!
-- **[Jun. 2025]** One paper is accept by IEEE Transactions on Fuzzy Systems!
-- **[May. 2025]** One paper is accept by KDD 2025!
-- **[May. 2025]** Two papers are early accepted by MICCAI 2025!
 
 {% include_relative _includes/education.md %}
 

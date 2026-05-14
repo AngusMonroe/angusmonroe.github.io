@@ -1,0 +1,10 @@
+@ARTICLE{11518539,
+  author={Xu, Jiaxing and He, Kai and Tang, Yue and Li, Wei and Lan, Mengcheng and Xun, Yue and Lin, Qika and Ran, Peifan and Ke, Yiping and Feng, Mengling},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={BrainPrompt+: Multi-Level Brain Prompt Learning for Knowledge-Guided Neurological Disorder Identification}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Brain;Modeling;Diseases;Biomedical imaging;Graph neural networks;Learning (artificial intelligence);Functional magnetic resonance imaging;Accuracy;Conferences;Labeling;Brain Network;fMRI;Graph Neural Network;Neurological Disorder;Prompt Enhancement},
+  doi={10.1109/TMI.2026.3692958}}

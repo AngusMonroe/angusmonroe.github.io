@@ -1,5 +1,14 @@
 main:
 
+  - title: "BrainPrompt+: Multi-Level Brain Prompt Learning for Knowledge-Guided Neurological Disorder Identification"
+    authors: <strong>Jiaxing Xu</strong>, Kai He, Yue Tang, Wei Li, Mengcheng Lan, Yue Xun, Qika Lin, Peifan Ran, Yiping Ke, Mengling Feng.
+    conference_short: IEEE TMI
+    conference: In IEEE Transactions on Medical Imaging, 2026.
+    pdf: https://ieeexplore.ieee.org/document/11518539
+    code:  https://github.com/AngusMonroe/BrainPromptPlus
+    bibtex: ./assets/bib/BrainPrompt+.txt
+    image: ./assets/img/BrainPrompt+.png
+
   - title: "Multi-Atlas Brain Network Classification through Consistency Distillation and Complementary Information Fusion"
     authors: <strong>Jiaxing Xu</strong>, Mengcheng Lan, Xia Dong, Kai He, Wei Zhang, Qingtian Bian, Yiping Ke.
     conference_short: JBHI
