@@ -29,6 +29,7 @@ My PhD thesis made some early attempts on these problems. I do believe these fie
 
 ## Awards
 
+- 2026 ICML Gold Reviewer
 - 2024   PREMIA Best Student Paper Honourable Mention Award
 - 2019   Software College Innovation and Entrepreneurship Scholarship
 - 2019   Software College Excellent Student Leader Award
