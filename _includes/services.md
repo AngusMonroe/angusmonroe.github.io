@@ -23,13 +23,14 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-	<li><autocolor>Artificial Intelligence, 2025</autocolor></li>
-  <li><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024</autocolor></li>
-  <li><autocolor>IEEE Transactions on Affective Computing (TAFFC), 2025</autocolor></li>
-  <li><autocolor>IEEE Journal of Biomedical and Health Informatics (JBHI), 2025</autocolor></li>
-  <li><autocolor>Pattern Recognition, 2024， 2025</autocolor></li>
-  <li><autocolor>Neural Networks, 2023 - 2025</autocolor></li>
-  <li><autocolor>Engineering Applications of Artificial Intelligence (EAAI), 2022, 2024, 2025</autocolor></li>
-  <li><autocolor>Journal of Big Data, 2025</autocolor></li>
-  <li><autocolor>Memetic Computing (MEME), 2021</autocolor></li>
+	<li><autocolor>Artificial Intelligence</autocolor></li>
+	<li><autocolor>Transactions on Machine Learning Research (TMLR)</autocolor></li>
+  <li><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></li>
+  <li><autocolor>IEEE Transactions on Affective Computing (TAFFC)</autocolor></li>
+  <li><autocolor>IEEE Journal of Biomedical and Health Informatics (JBHI)</autocolor></li>
+  <li><autocolor>Pattern Recognition</autocolor></li>
+  <li><autocolor>Neural Networks</autocolor></li>
+  <li><autocolor>Engineering Applications of Artificial Intelligence (EAAI)</autocolor></li>
+  <li><autocolor>Journal of Big Data</autocolor></li>
+  <li><autocolor>Memetic Computing (MEME)</autocolor></li>
 </ul>
