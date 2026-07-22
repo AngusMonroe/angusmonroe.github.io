@@ -1,5 +1,14 @@
 main:
 
+  - title: "Multi-View Graph Learning in Brain Network Analysis: A Survey"
+    authors: <strong>Jiaxing Xu</strong>, Xia Dong, Tiancheng Huang, Kai He, Qika Lin, Danyang Wu, Wei Zhang, Yiping Ke, Mengling Feng, Philip S. Yu.
+    conference_short: INF
+    conference: Information Fusion, 2026.
+    pdf: https://www.sciencedirect.com/science/article/pii/S1566253526004896
+    # code:  
+    bibtex: ./assets/bib/multiview_survey.txt
+    image: ./assets/img/multiview_survey.png
+
   - title: "BrainPrompt+: Multi-Level Brain Prompt Learning for Knowledge-Guided Neurological Disorder Identification"
     authors: <strong>Jiaxing Xu</strong>, Kai He, Yue Tang, Wei Li, Mengcheng Lan, Yue Xun, Qika Lin, Peifan Ran, Yiping Ke, Mengling Feng.
     conference_short: IEEE TMI

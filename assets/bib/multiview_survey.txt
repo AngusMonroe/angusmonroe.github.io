@@ -1,0 +1,13 @@
+@article{XU2027104612,
+title = {Multi-view graph learning in brain network analysis: A survey},
+journal = {Information Fusion},
+volume = {137},
+pages = {104612},
+year = {2027},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2026.104612},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253526004896},
+author = {Jiaxing Xu and Xia Dong and Tiancheng Huang and Kai He and Qika Lin and Danyang Wu and Wei Zhang and Yiping Ke and Mengling Feng and Philip S. Yu},
+keywords = {Brain network, Graph representation learning, Multi-view learning, Multi-modal fusion},
+abstract = {Exploring the complex structure of the human brain is essential for understanding its functions and diagnosing neurological disorders. With advancements in neuroimaging technologies, graph-based approaches have become a powerful tool for modeling the brain, where regions of interest (ROIs) are represented as nodes, and the functional or structural relationships between them are represented as edges. These graph representations provide valuable insights into brain connectivity and network organization, enabling more effective analyses of brain activity and structure. In recent years, multi-view graph learning has emerged as a promising framework for brain network analysis, as it facilitates the integration of multiple neuroimaging modalities or data views, offering a more comprehensive understanding of the brain. This approach is particularly valuable for capturing the intricate and multi-faceted nature of brain networks, which is critical for diagnosing complex neurological disorders. This survey reviews the application of multi-view graph learning in brain network analysis, highlighting the necessity and advantages of graph learning in this context. The main contributions of this survey are: (1) an overview of commonly used brain network datasets; (2) a systematic review of multi-view brain network analysis, focusing on three key paradigms: multi-modal, multi-parcellation, and multi-temporal; and (3) a discussion of open challenges, the role of graph learning in overcoming them, and potential future research directions.}
+}
