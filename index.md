@@ -16,6 +16,7 @@ My PhD thesis made some early attempts on these problems. I do believe these fie
 
 ## News
 
+- **[Sep. 2026]** Our paper about multi-view brain network foundation models is accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence*!
 - **[Jul. 2026]** Our survey paper about multi-view brain network analysis is accept by *Information Fusion*!
 - **[May. 2026]** Our paper about knowledge-driven brain network analysis is accept by *IEEE Transactions on Medical Imaging*!
 

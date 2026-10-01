@@ -1,0 +1,10 @@
+@ARTICLE{11701538,
+  author={Xu, Jiaxing and Ma, Jingying and Lin, Xin and Liu, Yuxiao and He, Kai and Lin, Qika and Ke, Yiping and Li, Yang and Shen, Dinggang and Feng, Mengling},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  title={Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning across Arbitrary Atlases},
+  year={2026},
+  volume={},
+  number={},
+  pages={1-18},
+  keywords={Modeling;Brain;Foundation models;Learning (artificial intelligence);Distance measurement;Head;Neuroimaging;Aging;Educational institutions;Training;Brain Network;fMRI;Foundation Model;Graph Neural Network;Neurological Disorder},
+  doi={10.1109/TPAMI.2026.3736359}}

@@ -1,5 +1,14 @@
 main:
 
+  - title: "Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning Across Arbitrary Atlases"
+    authors: <strong>Jiaxing Xu</strong>, Jingying Ma, Xin Lin, Yuxiao Liu, Kai He, Qika Lin, Yiping Ke, Yang Li, Dinggang Shen, Mengling Feng.
+    conference_short: IEEE TPAMI
+    conference: In IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026.
+    pdf: https://ieeexplore.ieee.org/document/11701538
+    code: https://github.com/AngusMonroe/MV-BrainFM
+    bibtex: ./assets/bib/MV-BrainFM.txt
+    image: ./assets/img/MV-BrainFM.png
+
   - title: "Multi-View Graph Learning in Brain Network Analysis: A Survey"
     authors: <strong>Jiaxing Xu</strong>, Xia Dong, Tiancheng Huang, Kai He, Qika Lin, Danyang Wu, Wei Zhang, Yiping Ke, Mengling Feng, Philip S. Yu.
     conference_short: INF
